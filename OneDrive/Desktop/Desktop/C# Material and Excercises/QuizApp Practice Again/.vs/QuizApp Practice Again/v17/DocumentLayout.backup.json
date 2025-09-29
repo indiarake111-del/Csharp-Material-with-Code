@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02511D15-565D-46A2-AEC8-07EFEBFAD3C7}|QuizApp Practice Again\\QuizApp Practice Again.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\quizapp practice again\\quizapp practice again\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02511D15-565D-46A2-AEC8-07EFEBFAD3C7}|QuizApp Practice Again\\QuizApp Practice Again.csproj|solutionrelative:quizapp practice again\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02511D15-565D-46A2-AEC8-07EFEBFAD3C7}|QuizApp Practice Again\\QuizApp Practice Again.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\quizapp practice again\\quizapp practice again\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02511D15-565D-46A2-AEC8-07EFEBFAD3C7}|QuizApp Practice Again\\QuizApp Practice Again.csproj|solutionrelative:quizapp practice again\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02511D15-565D-46A2-AEC8-07EFEBFAD3C7}|QuizApp Practice Again\\QuizApp Practice Again.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\quizapp practice again\\quizapp practice again\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02511D15-565D-46A2-AEC8-07EFEBFAD3C7}|QuizApp Practice Again\\QuizApp Practice Again.csproj|solutionrelative:quizapp practice again\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\QuizApp Practice Again\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizApp Practice Again\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\QuizApp Practice Again\\Quiz.cs",
+              "RelativeToolTip": "QuizApp Practice Again\\Quiz.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:49:22.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\QuizApp Practice Again\\Question.cs",
+              "RelativeDocumentMoniker": "QuizApp Practice Again\\Question.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\QuizApp Practice Again\\Question.cs",
+              "RelativeToolTip": "QuizApp Practice Again\\Question.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:48:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\QuizApp Practice Again\\Program.cs",
+              "RelativeDocumentMoniker": "QuizApp Practice Again\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\QuizApp Practice Again\\QuizApp Practice Again\\Program.cs",
+              "RelativeToolTip": "QuizApp Practice Again\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:19:32.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

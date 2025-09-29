@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\bin\Debug\net8.0\QuizApp Practice Again.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\bin\Debug\net8.0\QuizApp Practice Again.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\bin\Debug\net8.0\QuizApp Practice Again.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\bin\Debug\net8.0\QuizApp Practice Again.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\bin\Debug\net8.0\QuizApp Practice Again.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\refint\QuizApp Practice Again.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\QuizApp Practice Again.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\QuizApp Practice Again\QuizApp Practice Again\obj\Debug\net8.0\ref\QuizApp Practice Again.dll

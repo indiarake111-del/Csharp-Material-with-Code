@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{572E3843-8832-4117-B236-47C36AD6A99E}|MyQuizApp\\MyQuizApp.csproj|c:\\users\\admin\\source\\repos\\myquizapp\\myquizapp\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572E3843-8832-4117-B236-47C36AD6A99E}|MyQuizApp\\MyQuizApp.csproj|solutionrelative:myquizapp\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572E3843-8832-4117-B236-47C36AD6A99E}|MyQuizApp\\MyQuizApp.csproj|c:\\users\\admin\\source\\repos\\myquizapp\\myquizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572E3843-8832-4117-B236-47C36AD6A99E}|MyQuizApp\\MyQuizApp.csproj|solutionrelative:myquizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572E3843-8832-4117-B236-47C36AD6A99E}|MyQuizApp\\MyQuizApp.csproj|c:\\users\\admin\\source\\repos\\myquizapp\\myquizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572E3843-8832-4117-B236-47C36AD6A99E}|MyQuizApp\\MyQuizApp.csproj|solutionrelative:myquizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\MyQuizApp\\Quiz.cs",
+              "RelativeDocumentMoniker": "MyQuizApp\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\MyQuizApp\\Quiz.cs*",
+              "RelativeToolTip": "MyQuizApp\\Quiz.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:16:51.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\MyQuizApp\\Question.cs",
+              "RelativeDocumentMoniker": "MyQuizApp\\Question.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\MyQuizApp\\Question.cs",
+              "RelativeToolTip": "MyQuizApp\\Question.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:08:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\MyQuizApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyQuizApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyQuizApp\\MyQuizApp\\Program.cs",
+              "RelativeToolTip": "MyQuizApp\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:07:27.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

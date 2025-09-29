@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\bin\Debug\net8.0\Practice Again C#.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\bin\Debug\net8.0\Practice Again C#.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\bin\Debug\net8.0\Practice Again C#.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\bin\Debug\net8.0\Practice Again C#.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\bin\Debug\net8.0\Practice Again C#.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\refint\Practice Again C#.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\Practice Again C#.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\Practice Again C#\obj\Debug\net8.0\ref\Practice Again C#.dll

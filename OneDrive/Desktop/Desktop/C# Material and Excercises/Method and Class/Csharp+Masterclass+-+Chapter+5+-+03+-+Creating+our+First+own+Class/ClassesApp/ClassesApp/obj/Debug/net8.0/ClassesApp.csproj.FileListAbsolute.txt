@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.exe
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.deps.json
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.runtimeconfig.json
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.dll
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.pdb
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.dll
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\refint\ClassesApp.dll
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.pdb
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ClassesApp\ClassesApp\obj\Debug\net8.0\ref\ClassesApp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\bin\Debug\net8.0\ClassesApp.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\refint\ClassesApp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ClassesApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Method and Class\Csharp+Masterclass+-+Chapter+5+-+03+-+Creating+our+First+own+Class\ClassesApp\ClassesApp\obj\Debug\net8.0\ref\ClassesApp.dll

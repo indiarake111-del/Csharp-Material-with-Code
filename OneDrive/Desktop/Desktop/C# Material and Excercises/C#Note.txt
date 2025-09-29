@@ -1,0 +1,26 @@
+HashTable- Its a collection of DictrionaryEntry 
+- First create object with Key and value
+- And stored
+- Then retrive the data 
+
+Error Handling
+- Try and Catch
+- Finally Keyword
+- Debug log - it gives the error of the time of debugging
+- Throw keyword
+- Managing multiple types of exception
+- Default Exception - Its important- it can handles all error- It is also said parent exceptions
+- Call stack error - it means level two error in level one and level one s wrong in main method 
+
+Inheritance
+-Single level
+- Multilevel
+* Base class private field not asscessible in sub class or derived class and it is accessible with in the same class. 
+  We can not override the private field.
+* Protected field is available for every derved field.
+- Every Single Class is inherit from object. (Every object binding with hashcode and compare object to object for verify)
+- Sealed Key word- After the seal keyword used the other class can not inherit from this class.
+
+Polymirphism-
+Animal myDog = new Dog();
+myDog.MakeSound(); // Here Animal is barking because Animal is a Dog. 

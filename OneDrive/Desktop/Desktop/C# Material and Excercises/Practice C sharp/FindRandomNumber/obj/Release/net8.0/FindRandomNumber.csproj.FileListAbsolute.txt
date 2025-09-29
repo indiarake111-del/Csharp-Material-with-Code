@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\bin\Release\net8.0\FindRandomNumber.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\bin\Release\net8.0\FindRandomNumber.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\bin\Release\net8.0\FindRandomNumber.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\bin\Release\net8.0\FindRandomNumber.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\bin\Release\net8.0\FindRandomNumber.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\refint\FindRandomNumber.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\FindRandomNumber.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\FindRandomNumber\obj\Release\net8.0\ref\FindRandomNumber.dll

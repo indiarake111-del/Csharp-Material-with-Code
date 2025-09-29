@@ -1,0 +1,4 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\obj\Debug\net9.0\Practice Again C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\obj\Debug\net9.0\Practice Again C#.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\obj\Debug\net9.0\Practice Again C#.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Again C#\obj\Debug\net9.0\Practice Again C#.csproj.CoreCompileInputs.cache

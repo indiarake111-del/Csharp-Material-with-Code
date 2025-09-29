@@ -1,0 +1,42 @@
+Quiz App
+Step 1: Understand What You’re Going to Build
+Ask yourself simple questions like:
+
+What is a quiz?
+
+What should the app do?
+
+🧩 Basic Requirements
+Display questions one by one
+
+Take user input for answers
+
+Tell if the answer is correct or not
+
+Show the final score at the end
+
+🧠 Step 2: Think in Terms of Components
+🧊 Break into Small Parts
+You don’t need to think of everything at once.
+
+✅ Questions
+Where will the questions come from?
+
+Option 1: Hardcoded in the program
+
+Option 2: Load from file or database (advanced)
+
+✅ Question Structure
+Each question needs:
+
+The question text
+
+Multiple options
+
+The correct answer
+
+✅ User Answer
+Get input from the user
+
+Compare it with the correct answer
+

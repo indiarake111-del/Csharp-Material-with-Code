@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|c:\\users\\admin\\onedrive\\desktop\\c# material and excercises\\bulkywebrazor\\bulkywebrazor.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25DDBA4E-7AD0-336F-FA3E-0938A8AB8E47}|BulkyWebRazor.Web\\BulkyWebRazor.Web.csproj|solutionrelative:bulkywebrazor.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:56:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:56:46.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:56:20.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T17:55:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\App.razor",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:50:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:50:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BulkyWebRazor.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\C# Material and Excercises\\BulkyWebRazor\\BulkyWebRazor.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BulkyWebRazor.Web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T17:49:54.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

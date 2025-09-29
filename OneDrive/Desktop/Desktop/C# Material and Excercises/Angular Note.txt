@@ -1,0 +1,2 @@
+Angular
+-Angular is a singlepage application- because its loads once and dont refresh.

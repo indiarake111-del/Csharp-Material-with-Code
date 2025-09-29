@@ -1,0 +1,169 @@
+- Create A App and Show Hello World
+- Folder Structure
+ ✅ Easy Summary (yaad rakhne ke liye)
+
+package.json → Dependencies list
+
+angular.json → Project config
+
+index.html → App ka entry page
+
+main.ts → App start karta hai
+
+app.component.html → HTML (design)
+
+app.component.ts → Logic (code)
+
+app.component.css → Style (color/design)
+
+app.routes.ts → Routing (page navigation)
+
+node_modules → Installed libraries
+
+📘 Angular Project Folder/Files – Easy Notes
+🔹 Root Level Files (sabse bahar jo dikhte hain)
+
+package.json
+👉 Isme project ka name, version, aur dependencies (libraries) list hoti hain.
+Agar tum npm install likhte ho, to ye file padhi jati hai aur sab packages install ho jate hain.
+
+angular.json
+👉 Ye Angular ka project configuration hai.
+Isme likha hota hai app build kaise hoga, assets (images, css) kahan se lenge, aur index.html kaunse folder me hai.
+
+tsconfig.json
+👉 Ye TypeScript configuration file hai.
+Isme rules hote hain jaise code me error handling, strict checking, compiler options.
+
+package-lock.json
+👉 Ye exact version batata hai kaunse package install hua hai.
+(Team project me ensure karta hai sabke paas same version ho).
+
+node_modules/
+👉 Is folder me saare installed packages (Angular, RxJS, TypeScript, etc.) hote hain.
+⚠️ Isko manually edit nahi karte.
+
+🔹 src Folder (sabse important, yahi pe hum coding karte hain)
+
+index.html
+👉 Ye main HTML file hai jo browser me load hoti hai.
+Iske andar <app-root> hota hai jaha Angular app mount hoti hai.
+
+main.ts
+👉 Ye Angular ka starting point hai.
+Ye app ko bootstrap (start) karta hai.
+
+styles.css (ya scss)
+👉 Ye global CSS hota hai jo puri app me apply hota hai.
+
+🔹 src/app Folder (tumhara main app code)
+
+app.component.ts
+👉 Ye default component ka logic hota hai.
+
+app.component.html
+👉 Isme tumhara HTML hota hai (Hello World yahin likha tha).
+
+app.component.css
+👉 Ye component ka styling rakhta hai.
+
+app.routes.ts / app-routing.module.ts
+👉 Ye app ke routes (navigation) define karta hai.
+
+app.module.ts (agar standalone project nahi hai to)
+👉 Ye app ka root module hota hai. Isme components, services, aur imports register hote hain.
+
+app.component.spec.ts
+👉 Ye testing file hoti hai (beginners ke liye ignore kar sakte ho).
+
+🔹 Testing / Config Files
+
+karma.conf.js aur test.ts
+👉 Ye testing ke liye hote hain (unit tests run karne ke liye).
+
+.editorconfig
+👉 Code formatting rules (tabs/spaces, line endings).
+
+.gitignore
+👉 Kaunse files GitHub pe upload nahi karne (jaise node_modules).
+
+- We can declare variable into the function but not right directly in the class file in properties.
+
+* CodeInterpolation- Jo Javascript main hoga usko html main render karna hae 
+- Angular CLI Command
+- Components (1-Normal, 2- Inline)
+- Custom Component
+    * Class ka First letter Capital hoga
+- Function and button click
+    * Jab aapko ek function main se dusre function ko call karna hota hae toh us time aapko this lagana padta hae
+- Datatype
+- Counter App
+- Event
+- Get and Set the Input value
+- Using Style means CSS
+    * Global css main jab zyada file hote hain .css ka jo baad main likha ho usi file ke style hi chalega
+    * Internal CSS
+    * Inline CSS
+-If , Else condition
+- Else, If condition
+-Switch Case
+
+-For Loop
+-Signals
+  * Its a Core dependencies
+  * You have to import it
+  * When Signal value change hoga wo bata degi matlab signal degi
+  * It have 2 types - Writable and Computed
+- Data type of Signals
+- Computed of Signals - Behave like a constants
+- Effect
+   * Effect used under constructor - Jab ek class main instance change hota hae to constructor automatic call ho jata hae we know. To uske andar effect ko define karke hum updated data paa sakte hain.
+				     Thats why we use constrctor in effect.
+- For Loop Contextual Variable 
+   * Forloop ke andar jo variable rahetehain usko contextual variable kahete hain.
+- Two way binding (ngModel) - .html and . ts file ko dono taraf bind karne ko data binding kehte hain
+- To do List
+- Dynamic Style (When styling ki value properties ke sath type script wale file se ana suru ho jata hae usko hum bol te hain dynamic style )
+- Directives (It is used to give more power to html DOM elements)
+- *ng-For Directives
+-*ng-if Drectives
+-*ng-switch Directives
+
+- Routing
+- Header Routing
+- 404 page(wild card routing)
+- Pass data one page to another page (Aap routerlink define karke data get karsakte hain, aur constructor ke madhyam se hi get karsak te ho data ko)
+- Dynamic Routing
+- Forms - Basic Form through (form Control)
+- Forms grouping in Reactive forms - its working through (Formgroup)
+- Validators ke sath regex use karke use kar sakte hain.- Use Validators
+- Template Driven Forms - (This is control by templates)
+- Template Driven Validation
+
+- Pass Data Parent to child Component -
+(Jab aap ek component main dusra component use karte ho jo upar wala 
+component hota hae usko parent component bolte hain, jo andar wala component hota hae usko child bolte hain)
+  * parent component se user ko data milne ke liye kaunsa decorator use karte hain - @input
+- Reuse component
+- Pass child data to the parent
+- Create Angular Pipe
+- Component life cycle method
+- Services (jo aapka function ya api hae usko 3 jagah pay rakhn se acha ek hi jaga pay rakho and bar bar use karo)
+   * Ismain aap data, function and API rakh sakte hain
+   * You can call multiple API through a single service
+- API
+   * Jo hum API se data nikal te hain wo async data hota hae, async data ko handle karne ke liye angular internally observable use karta hae
+	aur observable se jab humko data chahiye hota hae toh humko subscribe use karna padta hae
+   * Jab humko koi data update karna hae to API ke through update karna hae
+   * Subscribe always returns the data
+
+- JSON Server ke saath API kaise bana sakte hain
+  * JSON server is a tool - you can install it easily
+- Data type and interface (We used interface to declare data type)
+- Lazy loading on routes (Jab us link main click hoga tabhi ho page load hogi otherwise unnecessary load nahi hoga)
+- Deploy Angular on Vercel
+
+* Root Component - Jo pehle load hota hae - app component
+
+
+- Basic Routing ke liye [Router Link, RouterOutlet - define in app.ts]

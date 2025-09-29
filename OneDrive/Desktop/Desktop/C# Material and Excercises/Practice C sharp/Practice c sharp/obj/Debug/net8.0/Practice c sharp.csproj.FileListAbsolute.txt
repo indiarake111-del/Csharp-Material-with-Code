@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\bin\Debug\net8.0\Practice c sharp.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\bin\Debug\net8.0\Practice c sharp.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\bin\Debug\net8.0\Practice c sharp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\bin\Debug\net8.0\Practice c sharp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\bin\Debug\net8.0\Practice c sharp.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\refint\Practice c sharp.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\Practice c sharp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice c sharp\Practice c sharp\obj\Debug\net8.0\ref\Practice c sharp.dll

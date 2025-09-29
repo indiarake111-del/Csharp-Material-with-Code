@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice c sharp", "Practice c sharp\Practice c sharp.csproj", "{930070B8-0D12-44A3-B28D-914617E915B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRandomNumber", "FindRandomNumber\FindRandomNumber.csproj", "{2B516BE7-9769-4CAC-95B6-42AF6EE0E77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930070B8-0D12-44A3-B28D-914617E915B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930070B8-0D12-44A3-B28D-914617E915B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930070B8-0D12-44A3-B28D-914617E915B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930070B8-0D12-44A3-B28D-914617E915B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B516BE7-9769-4CAC-95B6-42AF6EE0E77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B516BE7-9769-4CAC-95B6-42AF6EE0E77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B516BE7-9769-4CAC-95B6-42AF6EE0E77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B516BE7-9769-4CAC-95B6-42AF6EE0E77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA748C1-2CF7-4219-A829-12D0794028D8}
+	EndGlobalSection
+EndGlobal

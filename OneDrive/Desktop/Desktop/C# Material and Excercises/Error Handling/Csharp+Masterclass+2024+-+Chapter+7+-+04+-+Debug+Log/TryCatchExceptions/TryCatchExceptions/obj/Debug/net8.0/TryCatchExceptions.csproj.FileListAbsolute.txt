@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.exe
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.deps.json
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.runtimeconfig.json
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.dll
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.pdb
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.dll
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\refint\TryCatchExceptions.dll
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.pdb
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\ref\TryCatchExceptions.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\bin\Debug\net8.0\TryCatchExceptions.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\refint\TryCatchExceptions.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\TryCatchExceptions.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Error Handling\Csharp+Masterclass+2024+-+Chapter+7+-+04+-+Debug+Log\TryCatchExceptions\TryCatchExceptions\obj\Debug\net8.0\ref\TryCatchExceptions.dll

@@ -1,0 +1,2 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\WebApplication2\WebDevelopment.Models\obj\Debug\WebApplication2.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\WebApplication2\WebDevelopment.Models\obj\Debug\WebApplication2.Models.csproj.CoreCompileInputs.cache

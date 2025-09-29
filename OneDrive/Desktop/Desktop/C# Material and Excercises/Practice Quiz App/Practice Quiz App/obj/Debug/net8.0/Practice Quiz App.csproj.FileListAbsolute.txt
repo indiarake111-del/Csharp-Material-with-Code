@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\bin\Debug\net8.0\Practice Quiz App.exe
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\bin\Debug\net8.0\Practice Quiz App.deps.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\bin\Debug\net8.0\Practice Quiz App.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\bin\Debug\net8.0\Practice Quiz App.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\bin\Debug\net8.0\Practice Quiz App.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\refint\Practice Quiz App.dll
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.pdb
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\Practice Quiz App.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C# Material and Excercises\Practice Quiz App\Practice Quiz App\obj\Debug\net8.0\ref\Practice Quiz App.dll

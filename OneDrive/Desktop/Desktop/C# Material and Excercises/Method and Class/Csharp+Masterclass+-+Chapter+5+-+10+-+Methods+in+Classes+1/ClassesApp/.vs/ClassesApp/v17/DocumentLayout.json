@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB290C4-904B-41F1-985F-D8F565514E0E}|ClassesApp\\ClassesApp.csproj|c:\\users\\admin\\source\\repos\\classesapp\\classesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB290C4-904B-41F1-985F-D8F565514E0E}|ClassesApp\\ClassesApp.csproj|solutionrelative:classesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB290C4-904B-41F1-985F-D8F565514E0E}|ClassesApp\\ClassesApp.csproj|c:\\users\\admin\\source\\repos\\classesapp\\classesapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB290C4-904B-41F1-985F-D8F565514E0E}|ClassesApp\\ClassesApp.csproj|solutionrelative:classesapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB290C4-904B-41F1-985F-D8F565514E0E}|ClassesApp\\ClassesApp.csproj|c:\\users\\admin\\source\\repos\\classesapp\\classesapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB290C4-904B-41F1-985F-D8F565514E0E}|ClassesApp\\ClassesApp.csproj|solutionrelative:classesapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\ClassesApp\\Customer.cs",
+              "RelativeDocumentMoniker": "ClassesApp\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\ClassesApp\\Customer.cs*",
+              "RelativeToolTip": "ClassesApp\\Customer.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:18:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\ClassesApp\\Car.cs",
+              "RelativeDocumentMoniker": "ClassesApp\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\ClassesApp\\Car.cs",
+              "RelativeToolTip": "ClassesApp\\Car.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAYwBoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:20:28.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\ClassesApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ClassesApp\\ClassesApp\\Program.cs*",
+              "RelativeToolTip": "ClassesApp\\Program.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:51:56.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
