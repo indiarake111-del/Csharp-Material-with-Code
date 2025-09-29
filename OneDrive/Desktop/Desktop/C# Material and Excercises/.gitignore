@@ -1,0 +1,12 @@
+# Ignore VS, OS, and bin/obj files
+*.exe
+*.dll
+*.user
+*.vs/
+*.vscode/
+bin/
+obj/
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
